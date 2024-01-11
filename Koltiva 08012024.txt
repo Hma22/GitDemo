@@ -1,0 +1,11 @@
+Form export sama template kayaknya aman
+Bisa update berdasarkan Name, Code, & Lastoption. Translation & translation_desc belum tau buat apa
+Masukkin data 300, 297 option baru.
+15 menit progress kena failed
+Pas dicek, optionnya nambah perlahan
+
+Update 09012024:
+-Coba update dari 1 ke 5 option, cuman 4 hasil akhirnya
+-Kalo mau update option harus ada UIDnya
+-Semua column berhasil keupdate
+-Nambah 295 data, progress sekitar 15 menit progress tp kena failed. Pas dicek, optionnya nambah perlahan. So far hanya sampai 109. Ketika download template berhasil, tapi ketika Export malah No data in file

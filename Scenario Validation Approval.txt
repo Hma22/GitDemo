@@ -1,0 +1,19 @@
+Scenario:
+K-Setting questionnaire yang perlu diapprove di Agronomist
+K-Survey approval setting
+K-Submitted
+K-View Single
+K-View Multiple
+K-Validate
+K-Reject
+K-Update multiple survey
+K-View Log
+K-Approve
+K-Not Approved
+K-Survey Finish
+K-Sync agar masuk ke table default
+
+Isi Remarks dengan text yang diinginkan
+Click Validate
+Click Ok
+Pada mobile, lakukan pull to refresh di list survey yang diupdate status approvalnya
